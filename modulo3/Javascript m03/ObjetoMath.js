@@ -1,1 +1,1 @@
-Math.round(5.93);
+return Math.random();

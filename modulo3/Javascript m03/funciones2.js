@@ -7,7 +7,7 @@ function otraFuncion() {
     return (
         "El nombre retornado por la funcion 'cuidadoConElConsoleLog' es: " +
     cuidadoConElConsoleLog("santiago")
-    );
+    ); 
 }
 
 function cuidadoConElReturn(nombre) {
